@@ -1,1 +1,1 @@
-# Shop_Management_System using Python and MySQL
+Shop Management System using Python and MySQL
